@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nwHacks-FrontEnd/static/css/main.4ff23cde.css",
-    "main.js": "/nwHacks-FrontEnd/static/js/main.2942f708.js",
+    "main.js": "/nwHacks-FrontEnd/static/js/main.4645c106.js",
     "static/js/787.9a689b89.chunk.js": "/nwHacks-FrontEnd/static/js/787.9a689b89.chunk.js",
     "static/media/Background.png": "/nwHacks-FrontEnd/static/media/Background.d0b286396ebdb802b8c6.png",
     "static/media/Gurman.png": "/nwHacks-FrontEnd/static/media/Gurman.6d0e8b94703cda071ef6.png",
@@ -10,11 +10,11 @@
     "static/media/Logo.png": "/nwHacks-FrontEnd/static/media/Logo.6de38c2ec80a53496df8.png",
     "index.html": "/nwHacks-FrontEnd/index.html",
     "main.4ff23cde.css.map": "/nwHacks-FrontEnd/static/css/main.4ff23cde.css.map",
-    "main.2942f708.js.map": "/nwHacks-FrontEnd/static/js/main.2942f708.js.map",
+    "main.4645c106.js.map": "/nwHacks-FrontEnd/static/js/main.4645c106.js.map",
     "787.9a689b89.chunk.js.map": "/nwHacks-FrontEnd/static/js/787.9a689b89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ff23cde.css",
-    "static/js/main.2942f708.js"
+    "static/js/main.4645c106.js"
   ]
 }
