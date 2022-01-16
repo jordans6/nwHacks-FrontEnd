@@ -9,9 +9,8 @@ import NavBar from "./NavBar.js"
 
 function Body() {
 
-  const busy = window.busyness;
-  if(busy == null) {busy = 2;}
-  if(busy != 0 || busy != 1 || busy != 2) {busy = 2;} 
+  const busy = 2;
+ 
   const loc = window.city
   const parks = window.parks;
   const entertain = window.entertainment;
