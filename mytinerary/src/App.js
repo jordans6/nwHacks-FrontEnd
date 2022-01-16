@@ -18,7 +18,7 @@ function App() {
       <BrowserRouter>
         <NavBar/>
         <Switch>
-          <Route exact path="/" component = {Home}></Route>
+          <Route exact path="/nwHacks-FrontEnd" component = {Home}></Route>
           <Route exact path="/AboutUs" component={AboutUs}></Route>
           <Route exact path="/GetStarted" component={GetStarted}></Route>
           <Route exact path="/Dates" component={Dates}></Route>
