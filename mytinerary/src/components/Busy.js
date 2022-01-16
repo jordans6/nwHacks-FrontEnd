@@ -19,7 +19,7 @@ function Busy() {
           </Header>
         </Text>
         <div className = "SliderWrap">
-          <input id = "busylevel" className = "Slider" type="range" list="tickmarks" min="0" max = "2" onInput={onInput} />
+          <input id = "busylevel" className = "Slider" type="range" list="tickmarks" min="0" max = "2" />
           <datalist id="tickmarks">
           <option value="0" label="Relaxed"></option>
           <option value="1" label="Moderate"></option>
