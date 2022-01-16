@@ -47,7 +47,7 @@ function Body() {
       <NavBar />
       <Wrapper>
         <Header>
-          All done! Check out your itinerary below:
+          All done! Please wait for 5 seconds and then check out your itinerary below:
         </Header>
 
         <ButtonWrapper>
