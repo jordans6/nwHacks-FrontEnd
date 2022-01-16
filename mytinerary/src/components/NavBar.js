@@ -11,7 +11,7 @@ function Navbar() {
     return (
         <Nav>
           <Container>
-              <Link to="/"> <Logo img src = {LogoIcon}/> </Link>
+              <Link to="/nwHacks-FrontEnd"> <Logo img src = {LogoIcon}/> </Link>
               
               <Hamburger onClick={() => setIsOpen(!isOpen)}>
               <span />
